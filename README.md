@@ -167,11 +167,7 @@ Working with scikit-learn's NearestNeighbors reinforced that simple algorithms w
 
 ---
 
-## Demo Walkthrough
 
-> **TODO:** Record a Loom video showing the Streamlit app with 2–3 user profiles and add the link here.
-
----
 
 ## Model Card
 
